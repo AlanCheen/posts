@@ -1,7 +1,7 @@
 title: IntentService教给我什么
 categories: Android
 date: 2015-10-24 16:55:33
-tags: [IntentService]
+tags: [IntentService,RTFSC]
 ---
 
 

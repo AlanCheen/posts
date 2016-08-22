@@ -2,7 +2,7 @@ title: 一步一步深入理解CoordinatorLayout
 subtitle: "CoordinatorLayout重点源码分析"
 categories: Android
 date: 2016-07-12 20:48:59
-tags: [CoordinatorLayout,源码分析]
+tags: [CoordinatorLayout,RTFSC]
 ---
 
 # 一步一步深入理解[CoordinatorLayout](https://developer.android.com/reference/android/support/design/widget/CoordinatorLayout.html)
